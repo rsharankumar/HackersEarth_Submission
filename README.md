@@ -9,10 +9,10 @@ Used the model trained on VGG16
 
 Folder Structure
 
-Root Folder
- |
- |
- |_____ Data 
+Root Folder<br />
+ |<br />
+ |<br />
+ |_____ Data <br />
  |       |
  |       |__ Test_img
  |       |
