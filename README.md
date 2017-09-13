@@ -27,7 +27,7 @@ Root Folder
  |_____ Trained Model (Not Used Currently)
  |
  |
- |_____ Code
+ |_____ HackersEarth_Submission (Code)
  |        |
  |        |__ Python code as Files (keras_vggmodel.ipynb, keras_vggmodel_v1.ipynb and README)
  |
