@@ -13,27 +13,27 @@ Root Folder<br />
  |<br />
  |<br />
  |_____ Data <br />
- |       |
- |       |__ Test_img
- |       |
- |       |__ Train_img
- |       |
- |       |__ Test and Train Image Names in csv Files (test.csv and train.csv)
- |
- |
- |_____ Submissions
- |
- |
- |_____ Trained Model (Not Used Currently)
- |
- |
- |_____ HackersEarth_Submission (Code)
- |        |
- |        |__ Python code as Files (keras_vggmodel.ipynb, keras_vggmodel_v1.ipynb and README)
- |
- |
- |_____ README (File)
-
+ |       |<br />
+ |       |__ Test_img<br />
+ |       |<br />
+ |       |__ Train_img<br />
+ |       |<br />
+ |       |__ Test and Train Image Names in csv Files (test.csv and train.csv)<br />
+ |<br />
+ |<br />
+ |_____ Submissions<br />
+ |<br />
+ |<br />
+ |_____ Trained Model (Not Used Currently)<br />
+ |<br />
+ |<br />
+ |_____ HackersEarth_Submission (Code)<br />
+ |        |<br />
+ |        |__ Python code as Files (keras_vggmodel.ipynb, keras_vggmodel_v1.ipynb and README)<br />
+ |<br />
+ |<br />
+ |_____ README (File)<br />
+<br />
 **Problem:** Predict the product category <br />
 **Duration:** 1st September 2017 to 30th September 2017 <br />
 **Prize:** USD 700, USD 500 <br />
