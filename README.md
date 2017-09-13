@@ -13,9 +13,9 @@ Root Folder<br />
  |<br />
  |<br />
  |_____ Data <br />
- |_____|<br />
+ |<br />
  |_____|__ Test_img<br />
- |_____|<br />
+ |<br />
  |_____|__ Train_img<br />
  |<br />
  |_____|__ Test and Train Image Names in csv Files (test.csv and train.csv)<br />
@@ -28,7 +28,7 @@ Root Folder<br />
  |<br />
  |<br />
  |_____ HackersEarth_Submission (Code)<br />
- |_____|<br />
+ |<br />
  |_____|__ Python code as Files (keras_vggmodel.ipynb, keras_vggmodel_v1.ipynb and README)<br />
  |<br />
  |<br />
