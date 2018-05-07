@@ -6,7 +6,7 @@ https://www.hackerearth.com/challenge/competitive/deep-learning-challenge-1/mach
 
 Approach:
 Used the model trained on VGG16
-<br />
+<br /><br />
 Result<br />
 Rank: 42 on 4500+ participants (top 1 percentile) <br />
 
