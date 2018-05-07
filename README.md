@@ -6,6 +6,9 @@ https://www.hackerearth.com/challenge/competitive/deep-learning-challenge-1/mach
 
 Approach:
 Used the model trained on VGG16
+<br />
+Result<br />
+Rank: 42 on 4500+ participants (top 1 percentile) <br />
 
 Folder Structure
 
@@ -37,7 +40,8 @@ Root Folder<br />
 **Problem:** Predict the product category <br />
 **Duration:** 1st September 2017 to 30th September 2017 <br />
 **Prize:** USD 700, USD 500 <br />
-**Evaluation Metric:** F1-Score
+**Evaluation Metric:** F1-Score <br />
+
 
 
 
